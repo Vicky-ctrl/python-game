@@ -18,5 +18,6 @@ def run_game():
         screen.fill(bg_color)
 #         让最近绘制的屏幕可见
         pygame.display.flip()
+#     测试拉代码
 run_game()
 
